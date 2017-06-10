@@ -1,0 +1,83 @@
+.verde{
+    text-align: center;
+    text-decoration-style: double;
+    transform-origin: center;
+    font-family: fantasy;
+    font-size: 30px;
+    font-display: auto;
+    text-decoration:inherit;
+    text-overflow: clip;
+}
+.Campo-1{
+    justify-content: center;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 16px;
+    quotes: inherit;
+    padding: 14px;
+    
+    
+    
+}
+.campo-2 {
+    justify-content: center;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 16px;
+    quotes: inherit;
+    padding: 14px;   
+}
+.campo-3 {
+    justify-content: center;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 16px;
+    quotes: inherit;
+   padding: 14px;   
+}
+.campo-4 {
+    justify-content: center;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 16px;
+    quotes: inherit;
+   padding: 14px;   
+}
+.campo-5{
+    justify-content: center;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 16px;
+    quotes: inherit;
+    padding: 14px;   
+  
+}
+.campo-6{
+    justify-content: center;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 16px;
+    quotes: inherit;
+    padding: 14px;   
+  
+} 
+
+
+input[type=text] {
+    padding:5px; 
+    border:2px solid #ccc; 
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+input[type=text]:focus {
+    border-color:#333;
+}
+input[type=submit] {
+    padding:5px 15px; 
+    background:#ccc; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+}
