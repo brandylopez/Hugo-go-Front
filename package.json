@@ -1,0 +1,19 @@
+{
+  "name": "hugofn",
+  "version": "1.0.0",
+  "description": "hugo go frontend gen node",
+  "main": "form.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandylopez/Hugo-go-Front.git"
+  },
+  "author": "brandylp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandylopez/Hugo-go-Front/issues"
+  },
+  "homepage": "https://github.com/brandylopez/Hugo-go-Front#readme"
+}
