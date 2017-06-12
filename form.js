@@ -55,9 +55,10 @@
            // Iniciando el servidor de Hugo go
             .on('end', function(){
                  execSync(`cd ${querystring['titulo']} && hugo server --theme=${querystring['temaName']} --buildDrafts`).toString();
-                console.log('El servidor de Hugo esta corriendo en http://localhost:1313/')
             })
-        
+
+            //Hugo correra siempre en http://localhost:1313
+          console.log('El servidor de Hugo esta corriendo en http://localhost:1313/')
           console.log("Ya termino todo")
     }
  }

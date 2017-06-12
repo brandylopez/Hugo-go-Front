@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/brandylopez/Hugo-go-Front/issues"
   },
-  "homepage": "https://github.com/brandylopez/Hugo-go-Front#readme"
+  "homepage": "https://github.com/brandylopez/Hugo-go-Front#readme",
+  "dependencies": {
+    "execSync": "^1.0.2",
+    "formidable": "^1.1.1",
+    "graceful-fs": "^4.1.11",
+    "http": "0.0.0",
+    "inherits": "^2.0.3",
+    "querystring": "^0.2.0",
+    "rimraf": "^2.6.1",
+    "sys": "0.0.1",
+    "temp": "^0.8.3",
+    "util": "^0.10.3"
+  }
 }
